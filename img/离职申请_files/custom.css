@@ -1,0 +1,25 @@
+.logo-custom{
+    width:225px;
+    height:80px;
+    margin:15px 10px;
+}
+.nav-item-custom{
+    font-size: smaller;
+}
+.uppercase-custom{
+    font-size:small;
+    width:100px;
+}
+.font-custom{
+    font-size: 20px;
+    text-align: right;
+}
+
+.note-custom{
+    float: right;
+    display: inline;
+}
+
+.bgcolor-white{
+    background-color: #ffffff;
+}

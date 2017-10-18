@@ -1,0 +1,110 @@
+[
+    {
+        "fID": "4",
+        "fclassName": "IP路由与交换技术A",
+        "fPlace": "现教212",
+        "fTeachar": "马惟哲",
+        "fzhouqi": "1~16",
+        "fClasstime": "1~4",
+        "fweek": "一"
+    },
+    {
+        "fID": "5",
+        "fclassName": "排球",
+        "fPlace": "排球场",
+        "fTeachar": "辜德宏",
+        "fzhouqi": "1~16",
+        "fClasstime": "6~7",
+        "fweek": "一"
+    },
+    {
+        "fID": "6",
+        "fclassName": "TCP/IP协议分析",
+        "fPlace": "现教505",
+        "fTeachar": "张宝军",
+        "fzhouqi": "1~16",
+        "fClasstime": "1~4",
+        "fweek": "二"
+    },
+    {
+        "fID": "7",
+        "fclassName": "毛泽东思想和中国特色社会主义理论体系概论",
+        "fPlace": "第二教学楼南112",
+        "fTeachar": "宋红岩",
+        "fzhouqi": "1~16",
+        "fClasstime": "1~3",
+        "fweek": "三"
+    },
+    {
+        "fID": "8",
+        "fclassName": "大学英语4",
+        "fPlace": "第一教学楼北422",
+        "fTeachar": "张景京",
+        "fzhouqi": "1~16",
+        "fClasstime": "6~8",
+        "fweek": "三"
+    },
+    {
+        "fID": "9",
+        "fclassName": "JAVA程序设计",
+        "fPlace": "第一教学楼连廊414",
+        "fTeachar": "吉娜烨",
+        "fzhouqi": "1~16",
+        "fClasstime": "4~5",
+        "fweek": "四"
+    },
+    {
+        "fID": "9",
+        "fclassName": "JAVA程序设计上机",
+        "fPlace": "现教505",
+        "fTeachar": "吉娜烨",
+        "fzhouqi": "1~16",
+        "fClasstime": "6~7",
+        "fweek": "五"
+    },
+    {
+        "fID": "10",
+        "fclassName": "信息安全概论",
+        "fPlace": "现教505",
+        "fTeachar": "俞承杭",
+        "fzhouqi": "1~16",
+        "fClasstime": "10~12",
+        "fweek": "四"
+    },
+    // {
+    //     "fID": "1",
+    //     "fclassName": "高等数学",
+    //     "fPlace": "第一教学楼A331",
+    //     "fTeachar": "陈莉",
+    //     "fzhouqi": "1~16",
+    //     "fClasstime": "1~3",
+    //     "fweek": "周三"
+    // },
+    // {
+    //     "fID": "2",
+    //     "fclassName": "C语言",
+    //     "fPlace": "第二教学楼B121",
+    //     "fTeachar": "张倩",
+    //     "fzhouqi": "1~16",
+    //     "fClasstime": "1~3",
+    //     "fweek": "周一"
+    // },
+    // {
+    //     "fID": "3",
+    //     "fclassName": "大学英语",
+    //     "fPlace": "第二教学楼B221",
+    //     "fTeachar": "龙光",
+    //     "fzhouqi": "1~16",
+    //     "fClasstime": "1~3",
+    //     "fweek": "周一"
+    // },
+    {
+        "fID": "11",
+        "fclassName": "高等数学2",
+        "fPlace": "第一教学楼A109",
+        "fTeachar": "张莲",
+        "fzhouqi": "1~16",
+        "fClasstime": "1~2",
+        "fweek": "六"
+    }
+]

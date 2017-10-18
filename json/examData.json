@@ -1,0 +1,20 @@
+[
+    {
+        "fID": "1",
+        "fexamName": "CET-4考试",
+        "finalTime": "2017-12-01",
+        "fRestTime": ""
+    },
+    {
+        "fID": "2",
+        "fexamName": "计算机三级考试",
+        "finalTime": "2017-10-22",
+        "fRestTime": ""
+    },
+    {
+        "fID": "3",
+        "fexamName": "CCNA比赛",
+        "finalTime": "2018-07-14",
+        "fRestTime": ""
+    }
+]
