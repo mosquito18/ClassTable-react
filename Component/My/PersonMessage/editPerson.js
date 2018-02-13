@@ -287,8 +287,8 @@ export default class EditPerson extends Component {
         // alert(content)
         var key = fImg;
         // var key = new Date();
-        Conf.ACCESS_KEY = 'BSi8Sd386VY3LO5itsbvm8geehWkLcGIpK7RxEeU';
-        Conf.SECRET_KEY = 'ghSlX7iNRrThCXv9kVz_8BogOb4JT-lyXEYFqSeg';
+        Conf.ACCESS_KEY = '你的';
+        Conf.SECRET_KEY = '你的';
 
 
         // var putPolicy = new Auth.PutPolicy2(
@@ -299,7 +299,7 @@ export default class EditPerson extends Component {
 
         var avatar = fImg;
         var isBlur=true;
-        var uptoken = 'BSi8Sd386VY3LO5itsbvm8geehWkLcGIpK7RxEeU:-Fh0goh8xCbVyJnxF8GvSBDGabY=:eyJzY29wZSI6Im15YXZhdGFyIiwiZGVhZGxpbmUiOjE4MDM3MTgxNTl9';
+        var uptoken = '你的';
         let formInput = {
             key: key,
         }
